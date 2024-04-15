@@ -1,3 +1,4 @@
-# small-project
-One is Signature project
+# mini-project
+One is Signature project,
+
 Second is about mercury planet 
